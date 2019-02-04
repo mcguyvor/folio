@@ -1,4 +1,4 @@
-/* Just a simple reset section */
+
 
 .footer ul {
     margin: 0;
@@ -49,7 +49,7 @@ p {
 
 /* End of Reset section */
 
-/************************/
+
 
 /* Main body styles */
 
@@ -96,7 +96,7 @@ b {
 
 /* Main body styles end */
 
-/************************/
+
 
 /* Intro section styles */
 
@@ -167,7 +167,6 @@ b {
 
 /* Intro section style ends */
 
-/****************************/
 
 /* Project section begins */
 
@@ -177,7 +176,7 @@ b {
 }
 
 .projects .projects-collage {
-    /* max-width: 96rem;    Enable this if you want some margin down the sides of the projects. */
+    /* max-width: 96rem;    */
     margin: 0 auto
 }
 
@@ -280,7 +279,7 @@ img {
 
 /* Project style section ends */
 
-/******************************/
+
 
 /* Contact section begins */
 
